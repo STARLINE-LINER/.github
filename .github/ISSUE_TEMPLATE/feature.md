@@ -18,5 +18,8 @@ A clear and concise description of requirements so that when all of them are ful
 - [ ] Objective 1
 - [ ] Objective 2
 
+## Dependencies
+link issues that this issue is dependent on
+
 ## Notes
 Add any other context or screenshots about the feature here.
