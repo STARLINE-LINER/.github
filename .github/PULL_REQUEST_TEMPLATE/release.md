@@ -38,6 +38,11 @@ Image ID:
 
 ## ✅ Checklist
 
-- [ ] Unit tests written.
-- [ ] Code is readable, comments and doc string written.
-- [ ] Built and tested on Docker.
+- [ ] Verify all user stories/tasks for the release are completed and tested
+- [ ] Ensure the `CHANGELOG.md` is accurate and complete
+- [ ] Verify all automated tests pass
+- [ ] Perform regression testing on the `release-x.x.x` branch
+- [ ] Snyk code scanned with no critical or high vulnerabilities
+- [ ] Docker images Trivy scanned with no critical or high CVEs
+- [ ] Test generated Helm charts in pre-staging
+- [ ] Update documentation (if necessary)

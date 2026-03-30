@@ -6,6 +6,15 @@ labels: ""
 assignees: ""
 ---
 
+## 🐛 Bug Maturity Level
+
+- [ ] 🆕 `bug:new` — newly reported
+- [ ] 🔍 `bug:triage` — under review
+- [ ] 📋 `bug:confirmed` — valid bug
+- [ ] ⚙️ `bug:in-progress` — being fixed
+- [ ] 🧪 `bug:qa` — awaiting verification
+- [ ] ✅ `bug:done` — fixed & verified
+
 ## 🖼️ Screenshots
 
 Add screenshots to help explain your problem.

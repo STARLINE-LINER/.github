@@ -23,7 +23,7 @@ A clear and concise description of requirements so that when all of them are ful
 - [ ] Objective 1
 - [ ] Objective 2
 
-## 🔁 Workflow Sub-Issues
+## 🔁 Definition of Done
 
 During every feature, the following are needed, to improve tracability, and to fit our current processes to ensure due diligence. Please note that not every item below is applicable so convert to sub-issue accordingly
 
